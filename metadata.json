@@ -1,0 +1,6 @@
+{
+  "name": "Nano Banana 2",
+  "description": "The ultimate aesthetic banana clicker game featuring rare custom skins, click power upgrades, automatic farms, a banana fever mode, dynamic golden spawns, satisfying Web Audio API synthesizer effects, and persistent local storage saving!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
